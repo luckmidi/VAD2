@@ -44,6 +44,7 @@ namespace Snake
             pList.Add(p1);
             pList.Add(p2);
 
+
             Console.ReadLine();
         }
     }
