@@ -26,6 +26,8 @@ namespace Snake
             p2.Draw();
             p2.y = 7;
             p2.Draw();
+            p2.y = 8;
+            p2.Draw();
 
 
             Console.ReadLine();
