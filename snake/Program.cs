@@ -22,6 +22,11 @@ namespace Snake
             p2.sym = '#';
 
             p2.Draw();
+            p2.y = 6;
+            p2.Draw();
+            p2.y = 7;
+            p2.Draw();
+
 
             Console.ReadLine();
         }
